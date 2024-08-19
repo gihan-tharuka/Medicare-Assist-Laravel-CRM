@@ -347,16 +347,16 @@
 
         <ul class="mb-0 list-none">
           <li>
-            <a href="#!" class="text-white">Home</a>
+            <a href="{{ url('/') }}" class="text-white">Home</a>
           </li>
           <li>
-            <a href="#!" class="text-white">About Us</a>
+            <a href="{{ url('/about') }}" class="text-white">About Us</a>
           </li>
           <li>
-            <a href="#!" class="text-white">Our Services</a>
+            <a href="{{ url('/services') }}" class="text-white">Our Services</a>
           </li>
           <li>
-            <a href="#!" class="text-white">Contact Us</a>
+            <a href="{{ url('/contact') }}" class="text-white">Contact Us</a>
           </li>
         </ul>
       </div>
@@ -366,16 +366,16 @@
 
         <ul class="mb-0 list-none">
           <li>
-            <a href="#!" class="text-white">Home</a>
+            <a href="{{ url('/') }}" class="text-white">Home</a>
           </li>
           <li>
-            <a href="#!" class="text-white">About Us</a>
+            <a href="{{ url('/about') }}" class="text-white">About Us</a>
           </li>
           <li>
-            <a href="#!" class="text-white">Our Services</a>
+            <a href="{{ url('/services') }}" class="text-white">Our Services</a>
           </li>
           <li>
-            <a href="#!" class="text-white">Contact Us</a>
+            <a href="{{ url('/contact') }}" class="text-white">Contact Us</a>
           </li>
         </ul>
       </div>
