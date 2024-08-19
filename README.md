@@ -72,4 +72,14 @@ To set up Medicare Assist locally or on a server, follow these steps:
     DB_USERNAME=root
     DB_PASSWORD=password
 
-## 4. Screenshots
+## 5. Screenshots
+![Home Page](public/screenshots/home.jpg)
+![Sea Turtle Information](Images/screenshots/categories.jpeg)
+![Booking Page](Images/screenshots/threats.jpeg)
+![Booking Page](Images/screenshots/hatchery.jpeg)
+![Booking Page](Images/screenshots/products.jpeg)
+![Booking Page](Images/screenshots/donate.jpeg)
+![Booking Page](Images/screenshots/booking.jpeg)
+![Booking Page](Images/screenshots/billing.jpeg)
+![Booking Page](Images/screenshots/payment.jpeg)
+![Booking Page](Images/screenshots/confirmation.jpeg)
