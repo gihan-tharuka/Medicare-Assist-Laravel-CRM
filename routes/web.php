@@ -38,7 +38,7 @@ Route::view('/pricing', 'pages.pricing')->name('pricing');
 
 // Product Routes
 Route::get('/products', [\App\Http\Controllers\ProductController::class, 'showProducts'])->name('products');
-Route::get('/product/{product:slug}', [\App\Http\Controllers\ProductController::class, 'show'])->name('product.show');
+Route::get('/products/{product:slug}', [\App\Http\Controllers\ProductController::class, 'display'])->name('product.display');
 Route::get('/category/{slug}', [\App\Http\Controllers\ProductCategoryController::class, 'show'])->name('category.show');
 
 

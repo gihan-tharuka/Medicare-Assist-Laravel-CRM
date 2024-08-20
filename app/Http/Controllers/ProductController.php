@@ -10,6 +10,7 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
+
     /**
      * Display a listing of the resource.
      */
@@ -79,12 +80,19 @@ class ProductController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Product $product)
+    // public function show(Product $product)
+    // {
+    //     return view('admin.product.show', [
+    //         'product' => $product
+    //     ]);
+    // }
+    public function display(Product $product)
     {
         return view('admin.product.show', [
             'product' => $product
         ]);
     }
+
 
     /**
      * Show the form for editing the specified resource.
