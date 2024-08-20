@@ -73,13 +73,14 @@ To set up Medicare Assist locally or on a server, follow these steps:
     DB_PASSWORD=password
 
 ## 5. Screenshots
-![Home Page](public/screenshots/home.jpg)
-![Sea Turtle Information](Images/screenshots/categories.jpeg)
-![Booking Page](Images/screenshots/threats.jpeg)
-![Booking Page](Images/screenshots/hatchery.jpeg)
-![Booking Page](Images/screenshots/products.jpeg)
-![Booking Page](Images/screenshots/donate.jpeg)
-![Booking Page](Images/screenshots/booking.jpeg)
-![Booking Page](Images/screenshots/billing.jpeg)
-![Booking Page](Images/screenshots/payment.jpeg)
-![Booking Page](Images/screenshots/confirmation.jpeg)
+![Home Page](public/screenshots/home.jpeg)
+![Sea Turtle Information](public/screenshots/about.jpeg)
+![Booking Page](public/screenshots/services.jpeg)
+![Booking Page](public/screenshots/pricing.jpeg)
+![Booking Page](public/screenshots/pharmacy.jpeg)
+![Booking Page](public/screenshots/product-details.jpeg)
+![Booking Page](public/screenshots/category.jpeg)
+![Booking Page](public/screenshots/booking.jpeg)
+![Booking Page](public/screenshots/register.jpeg)
+![Booking Page](public/screenshots/login.jpeg)
+
