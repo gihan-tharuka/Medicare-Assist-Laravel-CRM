@@ -2,9 +2,9 @@
 
 ## 1. Description
 
-Medicare Assist is a comprehensive CRM (Customer Relationship Management) system tailored for the healthcare industry. It streamlines the management of medical appointments, medicine inventory, and patient interactions, providing an all-in-one solution for clinics, pharmacies, and healthcare providers. The system is designed to enhance efficiency by automating various administrative tasks, ensuring that healthcare providers can focus more on patient care rather than operational hassles.
+Medicare Assist is a comprehensive CRM (Customer Relationship Management) system tailored for the healthcare industry. It streamlines the management of appointments, medicine inventory, and patient interactions, providing an all-in-one solution for clinics, pharmacies, and healthcare providers. 
 
-Key functionalities include customer management, sales tracking, communication tools, appointment management, and detailed analytics. By centralizing these operations, Medicare Assist helps healthcare providers maintain a well-organized system that improves patient satisfaction and operational efficiency.
+Key functionalities include user management, subscriptions management, sales tracking, appointment management, inventory management, and detailed analytics. By centralizing these operations, Medicare Assist helps healthcare providers maintain a well-organized system that improves patient satisfaction and operational efficiency.
 
 ## 2. Features
 
@@ -14,15 +14,13 @@ Key functionalities include customer management, sales tracking, communication t
 - **Medicine Management**: Add, edit, and track medicines within the system.
 - **Stock Management**: Monitor medicine stock levels and set alerts for low inventory.
 - **Appointment Management**: Oversee and manage patient appointments.
-- **Analytics**: Generate reports and gain insights into the clinic's performance.
+- **Analytics**: Generate reports and gain insights into the growth and performance.
 
 ### **User Features**
 - **Appointment Booking**: Patients can book, reschedule, and cancel appointments.
-- **Subscription Plans**: Manage subscription plans for regular patients.
+- **Subscription Plans**: Manage subscriptions, renewals, and cancellations.
 - **View Medicines**: Patients can view available medicines and their details.
-- **Appointment Management**: Patients can view and manage their upcoming appointments.
-- **Subscriptions Management**: Manage subscriptions, renewals, and cancellations.
-
+ 
 ## 3. Technologies Used
 
 - **Laravel**: Backend framework used for handling the server-side logic and database interactions.
@@ -74,13 +72,15 @@ To set up Medicare Assist locally or on a server, follow these steps:
 
 ## 5. Screenshots
 ![Home Page](public/screenshots/home.jpeg)
-![Sea Turtle Information](public/screenshots/about.jpeg)
-![Booking Page](public/screenshots/services.jpeg)
-![Booking Page](public/screenshots/pricing.jpeg)
-![Booking Page](public/screenshots/pharmacy.jpeg)
-![Booking Page](public/screenshots/product-details.jpeg)
-![Booking Page](public/screenshots/category.jpeg)
+![Register Page](public/screenshots/register.jpeg)
+![Login Page](public/screenshots/login.jpeg)
+![About Page](public/screenshots/about.jpeg)
+![Services Page](public/screenshots/services.jpeg)
+![Pricing Page](public/screenshots/pricing.jpeg)
+![Pharmacy Page](public/screenshots/pharmacy.jpeg)
+![Product Page](public/screenshots/product-details.jpeg)
+![Category Page](public/screenshots/category.jpeg)
 ![Booking Page](public/screenshots/booking.jpeg)
-![Booking Page](public/screenshots/register.jpeg)
-![Booking Page](public/screenshots/login.jpeg)
+![Booking Page](public/screenshots/booking.jpeg)
+
 
