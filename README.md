@@ -83,9 +83,9 @@ To set up Medicare Assist locally or on a server, follow these steps:
 ![Booking Page](public/screenshots/booking.jpeg)
 ![Check out Page](public/screenshots/Checkout.jpeg)
 ![Success Page](public/screenshots/Payment_success.jpeg)
-![User Page](public/screenshots/User_dashbaord.jpeg)
+![User Page](public/screenshots/User-dashbaord.jpeg)
 ![Appoinments Page](public/screenshots/Subscriptions.jpeg)
-![Admin Page](public/screenshots/Admin_Dashbaord.jpeg)
-![Users Page](public/screenshots/User_management.jpeg)
+![Admin Page](public/screenshots/Admin-Dashbaord.jpeg)
+![Users Page](public/screenshots/User-management.jpeg)
 
 
